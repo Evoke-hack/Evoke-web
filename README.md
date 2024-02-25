@@ -113,6 +113,3 @@ If you want to contribute code to Evoke, follow these steps:
 ### License
 
   For the License see the License.md file.
-  
-
-### Code Contributions
