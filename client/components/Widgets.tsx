@@ -2,7 +2,7 @@ import { news, whoToFollow } from '../lib/static'
 import { BiSearch } from 'react-icons/bi'
 
 const style = {
-  wrapper: `flex-[1] p-4`,
+  wrapper: `flex-[1] p-4 h-screen overflow-y-scroll no-scrollbar`,
   searchBar: `flex items-center bg-[#243340] p-2 rounded-3xl`,
   searchIcon: `text-[#8899a6] mr-2`,
   inputBox: `bg-transparent outline-none`,
