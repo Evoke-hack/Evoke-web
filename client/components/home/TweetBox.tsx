@@ -98,7 +98,7 @@ function TweetBox() {
                 tweetMessage ? style.activeSubmit : style.inactiveSubmit
               }`}
             >
-              Tweet
+              Evoke
             </button>
           </div>
         </form>

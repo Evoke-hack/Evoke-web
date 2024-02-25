@@ -21,7 +21,8 @@ import {
 
 const style = {
   wrapper: `flex-[0.7] px-8 flex flex-col`,
-  twitterIconContainer: `text-3xl m-4`,
+  IconContainer: `h-10 w-10 text-3xl m-4`,
+  icon: 'object-contain' ,
   tweetButton: `bg-[#1d9bf0] hover:bg-[#1b8cd8] flex items-center justify-center font-bold rounded-3xl h-[50px] mt-[20px] cursor-pointer`,
   navContainer: `flex-1`,
   profileButton: `flex items-center mb-6 cursor-pointer hover:bg-[#333c45] rounded-[100px] p-2`,
@@ -45,8 +46,9 @@ function Sidebar({ initialSelectedIcon }: SidebarProps) {
 
   return (
     <div className={style.wrapper}>
-      <div className={style.twitterIconContainer}>
-        <VscTwitter />
+      <div className={style.IconContainer}>
+        <img className={style.icon} src="https://cdn.discordapp.com/attachments/1163510458154766406/1211237267016785950/aa-removebg-preview.png?ex=65ed779c&is=65db029c&hm=c977037ddc7c63d0b691ef094fbaf6fbd77678ec4d3e8b4bc7385aa6e60a1cc8&" alt="" />
+        {/* <VscTwitter /> */}
       </div>
       <div className={style.navContainer}>
         <SidebarOption

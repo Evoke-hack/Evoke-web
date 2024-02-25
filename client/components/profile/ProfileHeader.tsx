@@ -73,7 +73,7 @@ const ProfileHeader = () => {
         <div className={style.details}>
           <div className={style.primary}>{userData.name}</div>
           <div className={style.secondary}>
-            {userData.tweets?.length} Tweets
+            {userData.tweets?.length} Evokes
           </div>
         </div>
       </div>
@@ -114,8 +114,8 @@ const ProfileHeader = () => {
         </div>
       </div>
       <div className={style.nav}>
-        <div className={style.activeNav}>Tweets</div>
-        <div>Tweets & Replies</div>
+        <div className={style.activeNav}>Evokes</div>
+        <div>Evokes & Replies</div>
         <div>Media</div>
         <div>Likes</div>
       </div>
