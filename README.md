@@ -44,10 +44,12 @@ Before running Evoke, ensure you have the following dependencies installed:
    git clone https://github.com/Evoke-hack
 
 2.Install dependencies: 
-   cd evoke
-   npm install
+
+  cd evoke
+  npm install
 
 3.Set up Sanity Studio:
+   
    cd sanity-studio
    sanity init
 
