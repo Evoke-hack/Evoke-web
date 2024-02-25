@@ -14,4 +14,4 @@ This is a simple To-Do list application built using HTML, CSS, and JavaScript. I
 1. *Clone the repository:-*
 
    ```bash
-   git clone https://github.com/Vishnu9804/to-do-list.git
+   git clone https://github.com/Evoke-hack
