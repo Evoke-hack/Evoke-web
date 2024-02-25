@@ -4,9 +4,9 @@ module.exports = {
   solidity: '0.8.2',
   networks: {
     rinkeby: {
-      url: 'https://eth-rinkeby.alchemyapi.io/v2/_cqfxl5yx4HFvVpPh0HgNOwKHpYANpiX',
+      url: 'https://eth-sepolia.g.alchemy.com/v2/3Jss3W7-YWqwyUHWKGD_eZu5zqyigLCt',
       accounts: [
-        'f2679263aadf9db7949246a5265f7cf0b0aece610ba4d84dcfc9304ccd050d0c',
+        'ENTER_PRIVET_KEY',
       ],
     },
   },
