@@ -53,6 +53,6 @@ export const whoToFollow = [
   {
     name: 'Evoke',
     handle: '@Evoke_io',
-    avatar: 'https://media.istockphoto.com/id/1333736142/vector/letter-e-alphabet-initial-logo.jpg?s=2048x2048&w=is&k=20&c=8zeMowjkU3-Gc_vflCYvlUk-Y9qk7viw_6xP1wxTa98=',
+    avatar: 'https://cdn.discordapp.com/attachments/1163510458154766406/1211237267016785950/aa-removebg-preview.png?ex=65ed779c&is=65db029c&hm=c977037ddc7c63d0b691ef094fbaf6fbd77678ec4d3e8b4bc7385aa6e60a1cc8&',
   },
 ]
