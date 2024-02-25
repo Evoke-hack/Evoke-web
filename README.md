@@ -57,7 +57,7 @@ Before running Evoke, ensure you have the following dependencies installed:
    Update `sanity.json` with your Sanity project details.
 
    
-### Usage
+## Usage
 
    1.Run the Sanity Studio:
       cd sanity-studio
