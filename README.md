@@ -103,8 +103,16 @@ If you want to contribute code to Evoke, follow these steps:
    git push origin feature/new-feature
 
 7. Open a pull request on the main repository and provide details about your changes.
-We'll review your contributions, provide feedback, and merge them into the project if they align with our goals.
+  We'll review your contributions, provide feedback, and merge them into the project if they align with our goals.
 
-By contributing to Evoke, you agree to the Contributor Covenant Code of Conduct. Make sure to follow it in all your interactions with the project.
+  By contributing to Evoke, you agree to the Contributor Covenant Code of Conduct. Make sure to follow it in all your interactions with the project.
 
-Thank you for helping make Evoke a great decentralized social media platform!
+  Thank you for helping make Evoke a great decentralized social media platform!
+
+
+### License
+
+  For the License see the License.md file.
+  
+
+### Code Contributions
